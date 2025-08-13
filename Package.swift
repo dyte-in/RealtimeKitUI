@@ -10,7 +10,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/dyte-in/RealtimeKitCoreiOS.git",
-            revision: "8af7acefb58799c1ede8d4e445678be9cdf199d7"
+            from: "v1.3.1"
         ),
     ],
     targets: [
